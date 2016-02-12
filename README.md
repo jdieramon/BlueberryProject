@@ -4,3 +4,6 @@ Collection of scripts and packages related to [our] (http://www.ars.usda.gov/pan
 
 ### Optimal Plan  
 Identify the optimal sampling plan within the limits of a given budget by using technical replicates when they are expected to have the greatest benefit. 
+
+See an example in optimal_Plan.md
+
