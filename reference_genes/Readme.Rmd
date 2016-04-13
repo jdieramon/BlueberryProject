@@ -5,3 +5,5 @@ family.
 Primer sequences, statistical analysis and assessment of gene expression of the novel reference genes are shown in:  
   
 Die JV, Rowland LJ (2013) Superior Cross-Species Reference Genes: [A Blueberry Case Study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073354). PLoS ONE 8(9): e73354. doi:10.1371/journal.pone.0073354
+  
+![](figures/Figure1.png)
