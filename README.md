@@ -7,3 +7,6 @@ Identify the optimal sampling plan within the limits of a given budget by using 
 
 See an example in optimal_Plan.md
 
+## Reference Genes  
+A set of reference genes for use in real-time qPCR studies of blueberry and related plants of the *Ericaceae* family.
+
