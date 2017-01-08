@@ -2,8 +2,7 @@
 We have described an excellent set of reference genes for use in real-time qPCR studies of blueberry and related plants of the *Ericaceae* 
 family.  
   
-The following figure shows the *in silico* expression of our new set of reference genes (**A**) and, the expression levels of common genes 
-used in blueberry research: ACT (red), metallothionein (purple), GAPDH (blue) and EF1a (green) (**B**).  
+The following figure shows the *in silico* expression of (**A**) our new set of reference genes and, (**B**) the expression levels of common genes used in blueberry research: ACT (red), metallothionein (purple), GAPDH (blue) and EF1a (green).  
 ![](figures/Figure1.png)
 
 
@@ -12,6 +11,6 @@ used in blueberry research: ACT (red), metallothionein (purple), GAPDH (blue) an
 
 Primer sequences, statistical analysis and assessment of gene expression of the novel reference genes are shown in:  
   
-Die JV, Rowland LJ (2013) Superior Cross-Species Reference Genes: [A Blueberry Case Study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073354). PLoS ONE 8(9): e73354. doi:10.1371/journal.pone.0073354
+**Die JV, Rowland LJ** (2013) Superior Cross-Species Reference Genes: [A Blueberry Case Study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073354). PLoS ONE 8(9): e73354. doi:10.1371/journal.pone.0073354
   
 
