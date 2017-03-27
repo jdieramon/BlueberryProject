@@ -1,6 +1,6 @@
 # Blueberry Project
 
-Collection of packages, scripts and data related to [our] (http://www.ars.usda.gov/pandp/people/people.htm?personid=4849) research on Blueberry.  
+Collection of packages, scripts and data related to [our](http://www.ars.usda.gov/pandp/people/people.htm?personid=4849) research on Blueberry.  
 <br>
 
 ## Optimal Plan  
