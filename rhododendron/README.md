@@ -1,2 +1,2 @@
 test  
-![](figures/hcluster.eps)
+![](figures/profile.pdf)
