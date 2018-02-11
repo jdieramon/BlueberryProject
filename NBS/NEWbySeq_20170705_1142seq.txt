@@ -1,0 +1,287 @@
+SeqName	length	bit-score	eValue	hitName	GOs	ACC
+100_cDNA	1059	880.937	0	gi|147841490|emb|CAN77617.1|hypothetical protein VITISV_037152 [Vitis vinifera]	GO:0043531, GO:0006952	CAN77617.1
+100_cDNA	1059	879.396	0	gi|590584019|ref|XP_007015058.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0016020, GO:0016021, GO:0043531, GO:0006952	EOY32677.1
+100_cDNA	1059	865.529	0	gi|596017798|ref|XP_007218891.1|hypothetical protein PRUPE_ppa000343mg [Prunus persica]	GO:0043531, GO:0006952	EMJ20090.1
+100_cDNA	1059	840.106	0	gi|590656738|ref|XP_007034356.1|NBS type disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY05282.1
+100_cDNA	1059	835.869	0	gi|596017802|ref|XP_007218892.1|hypothetical protein PRUPE_ppa000391mg [Prunus persica]	GO:0043531, GO:0006952	EMJ20091.1
+100_cDNA	1059	834.713	0	gi|596056806|ref|XP_007220964.1|hypothetical protein PRUPE_ppa026310mg, partial [Prunus persica]	GO:0043531	EMJ22163.1
+101_(2)_N	905	570.466	0	gi|590639375|ref|XP_007029652.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY10154.1
+101_(2)_N	905	564.688	0	gi|590639360|ref|XP_007029648.1|Leucine-rich repeat containing protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY10150.1
+101_(2)_N	905	560.451	0	gi|590639372|ref|XP_007029651.1|Leucine-rich repeat containing protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY10153.1
+101_CNL	883	536.954	1.00E-174	gi|590639372|ref|XP_007029651.1|Leucine-rich repeat containing protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY10153.1
+1038_CNL	1182	439.113	2.02E-130	gi|590727448|ref|XP_007099577.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY20452.1
+1038_CNL	1182	420.239	1.04E-122	gi|566169415|ref|XP_006382679.1|putative disease resistance gene NBS-LRR family protein [Populus trichocarpa]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ERP60476.1
+1038_CNL	1182	412.535	5.00E-120	gi|566169427|ref|XP_006382685.1|putative disease resistance gene NBS-LRR family protein [Populus trichocarpa]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ERP60482.1
+1094_(2)_XNL	931	766.533	0	gi|596047277|ref|XP_007220267.1|hypothetical protein PRUPE_ppa001015mg [Prunus persica]	GO:0043531, GO:0006952	EMJ21466.1
+1094_(3)_XNL	933	814.298	0	gi|359480122|ref|XP_002265617.2|PREDICTED: disease resistance protein RPM1 [Vitis vinifera]	GO:0043531, GO:0006952	CAN60254.1
+1106_CNL	1045	457.603	2.98E-150	gi|379067852|gb|AFC90279.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron kanehirae]	GO:0043531	AFC90279.1
+1106_CNL	1045	447.973	1.19E-146	gi|379067758|gb|AFC90232.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90232.1
+1106_CNL	1045	439.884	6.75E-144	gi|379067936|gb|AFC90321.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron rubropunctatum]	GO:0043531	AFC90321.1
+1106_CNL	1045	439.499	1.10E-143	gi|379067934|gb|AFC90320.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron rubropunctatum]	GO:0043531	AFC90320.1
+1106_CNL	1045	437.958	8.61E-143	gi|379067844|gb|AFC90275.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron kanehirae]	GO:0043531	AFC90275.1
+122_XNL	622	274.633	3.56E-76	gi|147775060|emb|CAN77204.1|hypothetical protein VITISV_014782 [Vitis vinifera]	GO:0043531, GO:0006952	CAN77204.1
+122_XNL	622	273.863	4.62E-76	gi|147806087|emb|CAN63338.1|hypothetical protein VITISV_033712 [Vitis vinifera]	GO:0043531, GO:0006952	CAN63338.1
+126_NL	878	644.81	0	gi|595833779|ref|XP_007206733.1|hypothetical protein PRUPE_ppa024822mg [Prunus persica]	GO:0043531, GO:0006952	EMJ07932.1
+126_NL	878	615.92	0	gi|596017798|ref|XP_007218891.1|hypothetical protein PRUPE_ppa000343mg [Prunus persica]	GO:0043531, GO:0006952	EMJ20090.1
+126_NL	878	612.068	0	gi|596017802|ref|XP_007218892.1|hypothetical protein PRUPE_ppa000391mg [Prunus persica]	GO:0043531, GO:0006952	EMJ20091.1
+126_NL	878	608.601	0	gi|596056806|ref|XP_007220964.1|hypothetical protein PRUPE_ppa026310mg, partial [Prunus persica]	GO:0043531	EMJ22163.1
+126_NL	878	608.216	0	gi|596061977|ref|XP_007221132.1|hypothetical protein PRUPE_ppa019071mg [Prunus persica]	GO:0043531, GO:0006952	EMJ22331.1
+1307_CN	538	714.531	0	gi|976909205|gb|KVH96369.1|Disease resistance protein [Cynara cardunculus var. scolymus]	GO:0043531	KVH96369.1
+1307_CN	538	701.819	0	gi|565401646|ref|XP_006366308.1|PREDICTED: putative late blight resistance protein homolog R1B-14 [Solanum tuberosum]	GO:0043531, GO:0006952	XP_006366308.1
+1307_CN	538	694.115	0	gi|661890981|emb|CDP05558.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP05558.1
+1322	904	432.95	2.27E-134	gi|661890981|emb|CDP05558.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP05558.1
+1322	904	394.045	7.74E-122	gi|661886097|emb|CDP10323.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP10323.1
+1322	904	396.741	2.08E-120	gi|976918917|gb|KVI04070.1|Disease resistance protein [Cynara cardunculus var. scolymus]	GO:0043531	KVI04070.1
+1345_CNL	1028	490.345	2.84E-152	gi|661871097|emb|CDP21362.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP21362.1
+1345_CNL	1028	489.96	3.22E-152	gi|590654140|ref|XP_007033617.1|Cc-nbs-lrr resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY04543.1
+1345_CNL	1028	477.248	3.80E-149	gi|661880385|emb|CDP15916.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP15916.1
+1345_CNL	1028	471.085	1.67E-144	gi|590654363|ref|XP_007033676.1|Cc-nbs-lrr resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY04602.1
+1349_CN	590	295.049	6.35E-86	gi|590621007|ref|XP_007024689.1|NB-ARC domain-containing disease resistance protein, putative isoform 1 [Theobroma cacao]	GO:0043531, GO:0006952	EOY27311.1
+1349_CN	590	291.582	3.69E-85	gi|590621011|ref|XP_007024690.1|NB-ARC domain-containing disease resistance protein, putative isoform 2 [Theobroma cacao]	GO:0043531, GO:0006952	EOY27312.1
+1349_CN	590	280.411	1.88E-80	gi|590621021|ref|XP_007024693.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY27315.1
+1367_CNL	1153	972.615	0	gi|566260085|ref|XP_006389596.1|hypothetical protein POPTR_0021s00470g [Populus trichocarpa]	GO:0043531, GO:0006952	ERP48510.1
+1367_CNL	1153	936.021	0	gi|590596478|ref|XP_007018344.1|Nbs-lrr resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY15569.1
+1367_CNL	1153	902.894	0	gi|590596486|ref|XP_007018346.1|Nbs-lrr resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY15571.1
+1367_CNL	1153	882.863	0	gi|590596505|ref|XP_007018351.1|Nbs-lrr resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY15576.1
+1371_CNL	1199	613.224	0	gi|661878274|emb|CDP17982.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP17982.1
+1371_CNL	1199	610.142	0	gi|823148886|ref|XP_012474325.1|PREDICTED: disease resistance protein RGA2-like isoform X1 [Gossypium raimondii]	GO:0043531, GO:0006952	KJB23605.1
+1371_CNL	1199	602.823	0	gi|566201677|ref|XP_006374781.1|hypothetical protein POPTR_0014s00720g [Populus trichocarpa]	GO:0043531, GO:0006952	ERP52578.1
+138(2)_TCNL	1179	932.939	0	gi|643715111|gb|KDP27361.1|hypothetical protein JCGZ_20185 [Jatropha curcas]	GO:0007165, GO:0043531, GO:0006952	KDP27361.1
+138(2)_TCNL	1179	907.516	0	gi|255542420|ref|XP_002512273.1|PREDICTED: TMV resistance protein N isoform X2 [Ricinus communis]	GO:0007165, GO:0043531, GO:0006952	EEF49725.1
+138(3)_TNL	782	750.74	0	gi|643715111|gb|KDP27361.1|hypothetical protein JCGZ_20185 [Jatropha curcas]	GO:0007165, GO:0043531, GO:0006952	KDP27361.1
+138(3)_TNL	782	714.531	0	gi|596113848|ref|XP_007221574.1|hypothetical protein PRUPE_ppa025931mg [Prunus persica]	GO:0007165, GO:0043531, GO:0006952	EMJ22773.1
+138(3)_TNL	782	702.975	0	gi|223543328|gb|EEF44860.1|TMV resistance protein N, putative [Ricinus communis]	GO:0007165, GO:0043531, GO:0006952	EEF44860.1
+138(3)_TNL	782	697.582	0	gi|596052931|ref|XP_007220726.1|hypothetical protein PRUPE_ppa023276mg [Prunus persica]	GO:0007165, GO:0043531, GO:0006952	EMJ21925.1
+138_TNL	1128	878.241	0	gi|596052931|ref|XP_007220726.1|hypothetical protein PRUPE_ppa023276mg [Prunus persica]	GO:0007165, GO:0043531, GO:0006952	EMJ21925.1
+138_TNL	1128	788.875	0	gi|643715111|gb|KDP27361.1|hypothetical protein JCGZ_20185 [Jatropha curcas]	GO:0007165, GO:0043531, GO:0006952	KDP27361.1
+144_CNL	969	571.237	0	gi|703072724|ref|XP_010089359.1|Disease resistance protein [Morus notabilis]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EXB37703.1
+144_CNL	969	552.362	5.82E-178	gi|590608098|ref|XP_007021175.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY12700.1
+144_CNL	969	542.347	2.65E-174	gi|823154342|ref|XP_012477043.1|PREDICTED: probable disease resistance protein At1g61300 [Gossypium raimondii]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	KJB26993.1
+144_CNL	969	533.487	2.41E-171	gi|728835047|gb|KHG14490.1|hypothetical protein F383_06039 [Gossypium arboreum]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	KHG14490.1
+1513_CNL	1165	439.113	5.03E-129	gi|147777048|emb|CAN65562.1|hypothetical protein VITISV_009359 [Vitis vinifera]	GO:0043531, GO:0006952	CAN65562.1
+155_CNL	644	308.916	6.94E-90	gi|590681700|ref|XP_007041151.1|NB-ARC domain-containing disease resistance protein isoform 1 [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOX96983.1
+155_CNL	644	309.301	7.11E-90	gi|590669164|ref|XP_007037697.1|NB-ARC domain-containing disease resistance protein, putative isoform 1 [Theobroma cacao]	GO:0043531, GO:0006952	EOY22199.1
+155_CNL	644	294.664	1.34E-84	gi|590681727|ref|XP_007041159.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOX96990.1
+155_CNL	644	290.812	4.27E-83	gi|823121918|ref|XP_012468847.1|PREDICTED: disease resistance protein RPS2-like [Gossypium raimondii]	GO:0043531, GO:0006952	KJB08112.1
+155_CNL	644	269.24	9.33E-77	gi|947094397|gb|KRH42982.1|hypothetical protein GLYMA_08G123300 [Glycine max]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	KRH42983.1
+155_CNL	644	266.929	8.13E-76	gi|571455851|ref|XP_006580205.1|PREDICTED: disease resistance protein At4g27190-like isoform X2 [Glycine max]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	KRH59105.1
+155_CNL	644	270.011	1.66E-75	gi|571471075|ref|XP_006585198.1|PREDICTED: disease resistance protein At4g27190-like [Glycine max]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	KRH42981.1
+1560_CNL	1244	648.277	0	gi|590654895|ref|XP_007033830.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY04756.1
+1560_CNL	1244	625.165	0	gi|565381067|ref|XP_006356903.1|PREDICTED: putative disease resistance protein RGA3 [Solanum tuberosum]	GO:0043531, GO:0006952	XP_015168659.1
+1560_CNL	1244	605.134	0	gi|661881649|emb|CDP14809.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP14809.1
+1560_CNL	1244	602.823	0	gi|661878274|emb|CDP17982.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP17982.1
+1579_XNL	855	763.837	0	gi|549444998|gb|AGX27500.1|NBS-LRR class resistance protein Fy2-Ry2 [Sesamum indicum]	GO:0043531, GO:0006952	AGX27500.1
+15_CNL	1014	781.556	0	gi|703072724|ref|XP_010089359.1|Disease resistance protein [Morus notabilis]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EXB37703.1
+15_CNL	1014	627.476	0	gi|823154342|ref|XP_012477043.1|PREDICTED: probable disease resistance protein At1g61300 [Gossypium raimondii]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	KJB26993.1
+15_CNL	1014	621.698	0	gi|590611482|ref|XP_007022116.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY13641.1
+1611_CNL	824	405.216	1.86E-124	gi|566154972|ref|XP_006370708.1|putative disease resistance gene NBS-LRR family protein [Populus trichocarpa]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ERP67277.1
+1611_CNL	824	399.438	2.20E-122	gi|567880113|ref|XP_006432615.1|hypothetical protein CICLE_v10003416mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ESR45855.1
+1611_CNL	824	397.127	1.47E-121	gi|567880107|ref|XP_006432612.1|hypothetical protein CICLE_v10003762mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ESR45852.1
+1615_CNL	1277	1095.88	0	gi|590584019|ref|XP_007015058.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0016020, GO:0016021, GO:0043531, GO:0006952	EOY32677.1
+1685_CNL	964	593.578	0	gi|590669164|ref|XP_007037697.1|NB-ARC domain-containing disease resistance protein, putative isoform 1 [Theobroma cacao]	GO:0043531, GO:0006952	EOY22199.1
+1685_CNL	964	560.451	0	gi|823121918|ref|XP_012468847.1|PREDICTED: disease resistance protein RPS2-like [Gossypium raimondii]	GO:0043531, GO:0006952	KJB08112.1
+1700_CNL	755	502.286	6.90E-164	gi|661881561|emb|CDP14721.1|unnamed protein product, partial [Coffea canephora]	GO:0043531	CDP14721.1
+1700_CNL	755	497.278	2.79E-160	gi|661880385|emb|CDP15916.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP15916.1
+1700_CNL	755	494.967	9.69E-159	gi|661889218|emb|CDP07187.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP07187.1
+1700_CNL	755	485.723	1.51E-154	gi|661881568|emb|CDP14728.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP14728.1
+1846_XNL	921	825.469	0	gi|595852885|ref|XP_007210392.1|hypothetical protein PRUPE_ppa000961mg [Prunus persica]	GO:0043531, GO:0006952	EMJ11591.1
+188_CNL	1098	863.988	0	gi|223528186|gb|EEF30247.1|leucine-rich repeat containing protein, putative [Ricinus communis]	GO:0008152, GO:0006470, GO:0043531, GO:0004721, GO:0016787, GO:0006952	EEF30247.1
+188_CNL	1098	809.675	0	gi|567860890|ref|XP_006423099.1|hypothetical protein CICLE_v10027705mg [Citrus clementina]	GO:0043531, GO:0006952	ESR36340.1
+188_CNL	1098	803.127	0	gi|703070004|ref|XP_010088666.1|Putative disease resistance protein RGA3 [Morus notabilis]	GO:0043531, GO:0006952	EXB36826.1
+188_CNL	1098	790.415	0	gi|565352716|ref|XP_006343286.1|PREDICTED: putative disease resistance protein RGA3 [Solanum tuberosum]	GO:0043531, GO:0006952	XP_015162426.1
+1959_CNL	865	356.681	8.42E-106	gi|976918917|gb|KVI04070.1|Disease resistance protein [Cynara cardunculus var. scolymus]	GO:0043531	
+1959_CNL	865	366.696	1.75E-105	gi|976900592|gb|KVH88772.1|Disease resistance protein [Cynara cardunculus var. scolymus]	GO:0043531	
+1959_CNL	865	326.635	3.42E-94	gi|976909203|gb|KVH96367.1|Disease resistance protein [Cynara cardunculus var. scolymus]	GO:0043531	
+197_XNL	1192	1004.59	0	gi|566260085|ref|XP_006389596.1|hypothetical protein POPTR_0021s00470g [Populus trichocarpa]	GO:0043531, GO:0006952	
+197_XNL	1192	986.097	0	gi|508723672|gb|EOY15569.1|Nbs-lrr resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY15569.1
+1|curiosidad_error_CNCL_cDNA_translation	1459	867.455	0	gi|731413749|ref|XP_010658871.1|PREDICTED: putative disease resistance RPP13-like protein 1 [Vitis vinifera]	GO:0043531, GO:0006952	XP_010658871.1
+1|curiosidad_error_CNCL_cDNA_translation	1459	861.292	0	gi|823231153|ref|XP_012448285.1|PREDICTED: putative disease resistance protein At3g14460 [Gossypium raimondii]	GO:0043531, GO:0006952	KJB60282.1
+2039_NL	1102	865.144	0	gi|147841490|emb|CAN77617.1|hypothetical protein VITISV_037152 [Vitis vinifera]	GO:0043531, GO:0006952	CAN77617.1
+2039_NL	1102	830.861	0	gi|703112553|ref|XP_010100144.1|Putative disease resistance RPP13-like protein 1 [Morus notabilis]	GO:0043531, GO:0006952	EXB81595.1
+2039_NL	1102	819.305	0	gi|590565347|ref|XP_007009923.1|NBS type disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY18733.1
+2039_NL	1102	817.379	0	gi|596017798|ref|XP_007218891.1|hypothetical protein PRUPE_ppa000343mg [Prunus persica]	GO:0043531, GO:0006952	EMJ20090.1
+2065_XNL	804	798.89	0	gi|147841490|emb|CAN77617.1|hypothetical protein VITISV_037152 [Vitis vinifera]	GO:0043531, GO:0006952	CAN77617.1
+2147_CN	1032	622.083	0	gi|661878274|emb|CDP17982.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP17982.1
+2147_CN	1032	621.698	0	gi|590654140|ref|XP_007033617.1|Cc-nbs-lrr resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY04543.1
+2147_CN	1032	611.298	0	gi|661880359|emb|CDP15890.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP15890.1
+224_NL	859	376.711	1.12E-108	gi|317106737|dbj|BAJ53233.1|JHL06P13.14 [Jatropha curcas]	GO:0043531, GO:0006952	KDP37106.1
+224_NL	859	366.311	4.47E-108	gi|225445915|ref|XP_002263288.1|PREDICTED: probable disease resistance protein At4g27220 [Vitis vinifera]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	XP_010656889.1
+224_NL	859	362.073	2.44E-106	gi|971568995|ref|XP_006357685.2|PREDICTED: probable disease resistance protein At1g61300 [Solanum tuberosum]	GO:0043531, GO:0006952	XP_006357685.2
+2329_(2)_NL_	733	359.762	3.02E-116	gi|379068906|gb|AFC90806.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90806.1
+2329_(2)_NL_	733	358.992	6.36E-116	gi|379068822|gb|AFC90764.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90764.1
+2329_(2)_NL_	733	356.681	4.12E-115	gi|379068624|gb|AFC90665.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90665.1
+2329_(2)_NL_	733	355.14	1.74E-114	gi|379068592|gb|AFC90649.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90649.1
+2329_(2)_NL_	733	353.599	5.74E-114	gi|379068936|gb|AFC90821.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90821.1
+2329_CNL	737	521.546	2.28E-169	gi|703072724|ref|XP_010089359.1|Disease resistance protein [Morus notabilis]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EXB37703.1
+2329_CNL	737	512.686	5.95E-167	gi|823198021|ref|XP_012434464.1|PREDICTED: probable disease resistance protein At1g61300 isoform X1 [Gossypium raimondii]	GO:0043531, GO:0006952	KJB45689.1
+238_CNL	860	352.829	9.95E-106	gi|827885222|dbj|BAR88384.1|nucleotide binding site-leucine rich repeat protein [Solanum pimpinellifolium]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	BAR88384.1
+2396_CNL	894	535.798	3.85E-174	gi|629078625|gb|KCW45557.1|hypothetical protein EUGRSUZ_L00715, partial [Eucalyptus grandis]	GO:0043531	KCW45557.1
+2396_CNL	894	513.072	4.12E-165	gi|702372091|ref|XP_010061841.1|PREDICTED: disease resistance protein RPP13-like [Eucalyptus grandis]	GO:0043531, GO:0006952	KCW68876.1
+2396_CNL	894	510.76	5.61E-165	gi|629103402|gb|KCW68871.1|hypothetical protein EUGRSUZ_F02460 [Eucalyptus grandis]	GO:0043531, GO:0006952	KCW68871.1
+242_CNL	975	577.785	1.22E-180	gi|317106737|dbj|BAJ53233.1|JHL06P13.14 [Jatropha curcas]	GO:0043531, GO:0006952	KDP37106.1
+242_CNL	975	512.686	1.48E-172	gi|379067770|gb|AFC90238.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90238.1
+242_CNL	975	546.969	4.31E-171	gi|976920361|gb|KVI05092.1|hypothetical protein Ccrd_016590 [Cynara cardunculus var. scolymus]	GO:0043531	KVI05092.1
+2457_CNL	709	474.552	8.21E-154	gi|661881561|emb|CDP14721.1|unnamed protein product, partial [Coffea canephora]	GO:0043531	CDP14721.1
+267_XN	433	281.952	2.15E-84	gi|641824895|gb|KDO44197.1|hypothetical protein CISIN_1g047642mg, partial [Citrus sinensis]	GO:0043531	KDO44197.1
+267_XN	433	281.567	4.79E-83	gi|567861874|ref|XP_006423591.1|hypothetical protein CICLE_v10027800mg [Citrus clementina]	GO:0043531, GO:0006952	ESR36831.1
+267_XN	433	278.485	6.95E-82	gi|661898612|emb|CDO98579.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDO98579.1
+267_XN	433	278.1	9.68E-82	gi|661898613|emb|CDO98580.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDO98580.1
+2709_CNL	935	417.157	1.47E-127	gi|567881203|ref|XP_006433160.1|hypothetical protein CICLE_v10003522mg [Citrus clementina]	GO:0043531, GO:0006952	ESR46400.1
+2709_CNL	935	399.053	1.60E-120	gi|567881373|ref|XP_006433245.1|hypothetical protein CICLE_v100000552mg, partial [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524	ESR46485.1
+2712_CN	585	280.411	1.26E-80	gi|629078625|gb|KCW45557.1|hypothetical protein EUGRSUZ_L00715, partial [Eucalyptus grandis]	GO:0043531	KCW45557.1
+2712_CN	585	278.485	3.87E-80	gi|629103402|gb|KCW68871.1|hypothetical protein EUGRSUZ_F02460 [Eucalyptus grandis]	GO:0043531, GO:0006952	KCW68871.1
+277_TNL	599	351.673	5.37E-107	gi|823198021|ref|XP_012434464.1|PREDICTED: probable disease resistance protein At1g61300 isoform X1 [Gossypium raimondii]	GO:0043531, GO:0006952	KJB45689.1
+277_TNL	599	340.117	6.08E-102	gi|703072724|ref|XP_010089359.1|Disease resistance protein [Morus notabilis]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EXB37703.1
+277_TNL	599	339.732	1.08E-101	gi|590611259|ref|XP_007022051.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY13576.1
+277_TNL	599	339.347	1.55E-101	gi|590608098|ref|XP_007021175.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY12700.1
+284_CNL	875	431.409	2.33E-132	gi|147775150|emb|CAN68116.1|hypothetical protein VITISV_012513 [Vitis vinifera]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	CAN68116.1
+284_CNL	875	431.795	7.72E-131	gi|590727448|ref|XP_007099577.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY20452.1
+284_CNL	875	435.647	1.00E-130	gi|976920361|gb|KVI05092.1|hypothetical protein Ccrd_016590 [Cynara cardunculus var. scolymus]	GO:0043531	KVI05092.1
+284_CNL	875	427.172	1.06E-128	gi|590639660|ref|XP_007029736.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY10238.1
+284_CNL	875	415.231	8.98E-128	gi|567880107|ref|XP_006432612.1|hypothetical protein CICLE_v10003762mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ESR45852.1
+2873_NL	536	518.85	1.91E-172	gi|661890981|emb|CDP05558.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP05558.1
+2873_NL	536	508.064	2.65E-168	gi|565401646|ref|XP_006366308.1|PREDICTED: putative late blight resistance protein homolog R1B-14 [Solanum tuberosum]	GO:0043531, GO:0006952	XP_006366308.1
+2882_TNL	968	552.747	7.57E-177	gi|922362210|ref|XP_003604614.2|disease resistance protein (TIR-NBS-LRR class) [Medicago truncatula]	GO:0007165, GO:0043531, GO:0006952	AES86811.2
+288_NL	835	485.723	3.77E-155	gi|976918917|gb|KVI04070.1|Disease resistance protein [Cynara cardunculus var. scolymus]	GO:0043531	
+288_NL	835	475.322	2.25E-151	gi|565401646|ref|XP_006366308.1|PREDICTED: putative late blight resistance protein homolog R1B-14 [Solanum tuberosum]	GO:0043531, GO:0006952	
+301_CNL	843	579.326	0	gi|641842303|gb|KDO61209.1|hypothetical protein CISIN_1g002750mg [Citrus sinensis]	GO:0043531, GO:0006952	KDO61209.1
+301_CNL	843	577.015	0	gi|567907693|ref|XP_006446160.1|hypothetical protein CICLE_v10014222mg [Citrus clementina]	GO:0043531, GO:0006952	ESR59400.1
+301_CNL	843	536.954	7.21E-175	gi|567907685|ref|XP_006446156.1|hypothetical protein CICLE_v10014197mg [Citrus clementina]	GO:0043531, GO:0006952	ESR59396.1
+3133_CN	470	271.166	4.56E-85	gi|379068956|gb|AFC90831.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90831.1
+325_CNL	874	466.848	1.25E-147	gi|661890981|emb|CDP05558.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP05558.1
+325_CNL	874	442.965	2.84E-138	gi|976918917|gb|KVI04070.1|Disease resistance protein [Cynara cardunculus var. scolymus]	GO:0043531	KVI04070.1
+325_CNL	874	431.409	3.04E-134	gi|976900593|gb|KVH88773.1|Disease resistance protein [Cynara cardunculus var. scolymus]	GO:0043531	KVH88773.1
+325_CNL	874	429.483	2.32E-133	gi|976909205|gb|KVH96369.1|Disease resistance protein [Cynara cardunculus var. scolymus]	GO:0043531	KVH96369.1
+325_CNL	874	426.787	2.84E-132	gi|565401646|ref|XP_006366308.1|PREDICTED: putative late blight resistance protein homolog R1B-14 [Solanum tuberosum]	GO:0043531, GO:0006952	XP_006366308.1
+325_CNL	874	421.009	3.99E-130	gi|549444998|gb|AGX27500.1|NBS-LRR class resistance protein Fy2-Ry2 [Sesamum indicum]	GO:0043531, GO:0006952	AGX27500.1
+326_CNL	995	414.846	2.51E-126	gi|567880107|ref|XP_006432612.1|hypothetical protein CICLE_v10003762mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ESR45852.1
+326_CNL	995	418.313	4.38E-121	gi|590643219|ref|XP_007030743.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY11245.1
+326_CNL	995	398.667	8.23E-117	gi|590639660|ref|XP_007029736.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY10238.1
+326_CNL	995	400.593	8.07E-115	gi|763779152|gb|KJB46275.1|hypothetical protein B456_007G356000 [Gossypium raimondii]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	KJB46275.1
+326_CNL	995	382.489	8.98E-112	gi|590638585|ref|XP_007029433.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY09935.1
+326_CNL	995	380.178	2.77E-109	gi|147777048|emb|CAN65562.1|hypothetical protein VITISV_009359 [Vitis vinifera]	GO:0043531, GO:0006952	CAN65562.1
+346_CNL	1232	581.637	0	gi|976920361|gb|KVI05092.1|hypothetical protein Ccrd_016590 [Cynara cardunculus var. scolymus]	GO:0043531	KVI05092.1
+346_CNL	1232	559.296	1.03E-170	gi|317106737|dbj|BAJ53233.1|JHL06P13.14 [Jatropha curcas]	GO:0043531, GO:0006952	KDP37106.1
+346_CNL	1232	501.901	1.92E-152	gi|922392024|ref|XP_013464423.1|disease resistance protein (CC-NBS-LRR class) family protein [Medicago truncatula]	GO:0043531, GO:0006952	KEH38458.1
+346_CNL	1232	508.834	3.46E-152	gi|147865073|emb|CAN83232.1|hypothetical protein VITISV_021876 [Vitis vinifera]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	CAN83232.1
+367_(1)_TNL	708	643.654	0	gi|596053422|ref|XP_007220769.1|hypothetical protein PRUPE_ppa024626mg [Prunus persica]	GO:0007165, GO:0043531, GO:0006952	EMJ21968.1
+367_(1)_TNL	708	640.573	0	gi|595810395|ref|XP_007203067.1|hypothetical protein PRUPE_ppa023459mg [Prunus persica]	GO:0007165, GO:0043531, GO:0006952	EMJ04266.1
+367_(2)_TNL	797	772.311	0	gi|643715111|gb|KDP27361.1|hypothetical protein JCGZ_20185 [Jatropha curcas]	GO:0007165, GO:0043531, GO:0006952	KDP27361.1
+367_(2)_TNL	797	757.288	0	gi|223541425|gb|EEF42975.1|leucine-rich repeat-containing protein, putative [Ricinus communis]	GO:0000166, GO:0007165, GO:0043531, GO:0005524, GO:0006952	EEF42975.1
+367_(2)_TNL	797	757.288	0	gi|596053422|ref|XP_007220769.1|hypothetical protein PRUPE_ppa024626mg [Prunus persica]	GO:0007165, GO:0043531, GO:0006952	EMJ21968.1
+3757_CNL	803	489.574	3.83E-158	gi|147856483|emb|CAN78634.1|hypothetical protein VITISV_013449 [Vitis vinifera]	GO:0043531, GO:0006952	CAN78634.1
+381_NLNL	1706	498.819	4.75E-151	gi|567919888|ref|XP_006451950.1|hypothetical protein CICLE_v10007349mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ESR65190.1
+381_NLNL	1706	498.049	6.55E-151	gi|224117250|ref|XP_002317519.1|hypothetical protein POPTR_0011s12470g [Populus trichocarpa]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EEE98131.1
+381_NLNL	1706	494.197	4.25E-149	gi|763794800|gb|KJB61796.1|hypothetical protein B456_009G381500 [Gossypium raimondii]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	KJB61796.1
+381_NLNL	1706	492.656	1.26E-148	gi|703072724|ref|XP_010089359.1|Disease resistance protein [Morus notabilis]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EXB37703.1
+381_NLNL	1706	489.574	1.26E-147	gi|567919884|ref|XP_006451948.1|hypothetical protein CICLE_v10010335mg [Citrus clementina]	GO:0043531, GO:0006952	ESR65188.1
+3920_CNL	911	707.597	0	gi|147775060|emb|CAN77204.1|hypothetical protein VITISV_014782 [Vitis vinifera]	GO:0043531, GO:0006952	CAN77204.1
+396_NL	884	537.339	2.03E-173	gi|590669164|ref|XP_007037697.1|NB-ARC domain-containing disease resistance protein, putative isoform 1 [Theobroma cacao]	GO:0043531, GO:0006952	EOY22199.1
+396_NL	884	522.316	1.08E-167	gi|823121918|ref|XP_012468847.1|PREDICTED: disease resistance protein RPS2-like [Gossypium raimondii]	GO:0043531, GO:0006952	KJB08112.1
+396_NL	884	515.383	4.11E-165	gi|590681727|ref|XP_007041159.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOX96990.1
+396_NL	884	503.442	8.61E-163	gi|590669150|ref|XP_007037693.1|NB-ARC domain-containing disease resistance protein, putative isoform 1 [Theobroma cacao]	GO:0043531, GO:0006952	EOY22195.1
+396_NL	884	498.434	1.15E-158	gi|590681700|ref|XP_007041151.1|NB-ARC domain-containing disease resistance protein isoform 1 [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOX96983.1
+405_CNL	913	753.821	0	gi|596047277|ref|XP_007220267.1|hypothetical protein PRUPE_ppa001015mg [Prunus persica]	GO:0043531, GO:0006952	EMJ21466.1
+4088_CNL	616	506.523	9.17E-166	gi|567869965|ref|XP_006427604.1|hypothetical protein CICLE_v10024814mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ESR40844.1
+4103_XN	507	492.271	1.68E-162	gi|549444998|gb|AGX27500.1|NBS-LRR class resistance protein Fy2-Ry2 [Sesamum indicum]	GO:0043531, GO:0006952	AGX27500.1
+4103_XN	507	491.5	1.83E-162	gi|976900593|gb|KVH88773.1|Disease resistance protein [Cynara cardunculus var. scolymus]	GO:0043531	KVH88773.1
+455_XNL	1232	656.751	0	gi|590654895|ref|XP_007033830.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY04756.1
+455_XNL	1232	632.484	0	gi|566201677|ref|XP_006374781.1|hypothetical protein POPTR_0014s00720g [Populus trichocarpa]	GO:0043531, GO:0006952	ERP52578.1
+455_XNL	1232	624.78	0	gi|565381067|ref|XP_006356903.1|PREDICTED: putative disease resistance protein RGA3 [Solanum tuberosum]	GO:0043531, GO:0006952	XP_015168659.1
+455_XNL	1232	623.239	0	gi|566201787|ref|XP_006374816.1|hypothetical protein POPTR_0014s01230g [Populus trichocarpa]	GO:0043531, GO:0006952	ERP52613.1
+455_XNL	1232	622.468	0	gi|566201685|ref|XP_006374785.1|hypothetical protein POPTR_0014s00760g [Populus trichocarpa]	GO:0043531, GO:0006952	ERP52582.1
+455_XNL	1232	615.15	0	gi|566201598|ref|XP_006374742.1|Fom-2 family protein [Populus trichocarpa]	GO:0043531, GO:0006952	ERP52539.1
+471_TNL	929	627.476	0	gi|566257154|ref|XP_006388459.1|hypothetical protein POPTR_0182s00240g [Populus trichocarpa]	GO:0000166, GO:0007165, GO:0043531, GO:0005524, GO:0006952	ERP47373.1
+4836_CNL	785	360.918	6.88E-108	gi|590727451|ref|XP_007099578.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY20453.1
+4836_CNL	785	308.916	1.02E-95	gi|379067770|gb|AFC90238.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90238.1
+501_CNL	1044	462.611	2.25E-137	gi|147865073|emb|CAN83232.1|hypothetical protein VITISV_021876 [Vitis vinifera]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	CAN83232.1
+501_CNL	1044	441.81	1.79E-135	gi|567881211|ref|XP_006433164.1|hypothetical protein CICLE_v10000179mg [Citrus clementina]	GO:0043531, GO:0006952	ESR46404.1
+501_CNL	1044	441.039	1.91E-135	gi|567881209|ref|XP_006433163.1|hypothetical protein CICLE_v10003685mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ESR46403.1
+509_XNL	1466	935.636	0	gi|566167627|ref|XP_006384740.1|hypothetical protein POPTR_0004s20690g [Populus trichocarpa]	GO:0043531, GO:0006952	ERP62537.1
+509_XNL	1466	902.894	0	gi|596037176|ref|XP_007219754.1|hypothetical protein PRUPE_ppa024377mg [Prunus persica]	GO:0043531, GO:0006952	EMJ20953.1
+509_XNL	1466	887.871	0	gi|802640488|ref|XP_012078838.1|PREDICTED: putative disease resistance RPP13-like protein 1 [Jatropha curcas]	GO:0043531, GO:0006952	KDP32440.1
+5113	576	382.874	8.47E-127	gi|379067836|gb|AFC90271.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron kanehirae]	GO:0043531	AFC90271.1
+5113	576	379.022	2.15E-125	gi|379067866|gb|AFC90286.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron kanehirae]	GO:0043531	AFC90286.1
+5113	576	373.629	3.41E-123	gi|379067748|gb|AFC90227.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90227.1
+5113	576	371.318	2.89E-122	gi|379067828|gb|AFC90267.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron kanehirae]	GO:0043531	AFC90267.1
+5113	576	366.696	6.44E-121	gi|379068592|gb|AFC90649.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90649.1
+5311_CNL	874	353.599	3.66E-104	gi|567881211|ref|XP_006433164.1|hypothetical protein CICLE_v10000179mg [Citrus clementina]	GO:0043531, GO:0006952	
+5311_CNL	874	345.51	2.87E-100	gi|567911175|ref|XP_006447901.1|hypothetical protein CICLE_v10018190mg, partial [Citrus clementina]	GO:0043531	
+5311_CNL	874	345.125	5.70E-99	gi|976914361|gb|KVI00574.1|AAA+ ATPase domain-containing protein [Cynara cardunculus var. scolymus]	GO:0043531	
+5311_CNL	874	340.117	7.47E-99	gi|567901740|ref|XP_006443358.1|hypothetical protein CICLE_v10018706mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	
+586_NL	738	448.358	1.19E-142	gi|763816310|gb|KJB83162.1|hypothetical protein B456_013G232200 [Gossypium raimondii]	GO:0043531, GO:0006952	KJB83162.1
+586_NL	738	441.039	5.83E-140	gi|763816296|gb|KJB83148.1|hypothetical protein B456_013G231500 [Gossypium raimondii]	GO:0043531, GO:0006952	KJB83148.1
+593_CNL	916	711.449	0	gi|225445258|ref|XP_002281054.1|PREDICTED: putative disease resistance RPP13-like protein 3 [Vitis vinifera]	GO:0043531, GO:0006952	XP_002281054.1
+593_CNL	916	514.612	8.40E-166	gi|661893384|emb|CDP03193.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP03193.1
+593_CNL	916	460.685	4.86E-145	gi|54778537|gb|AAV39529.1|tm-2 [Lycopersicon peruvianum var. dentatum]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	AAV39529.1
+593_CNL	916	456.062	2.57E-143	gi|33330976|gb|AAQ10736.1|Tm-2^2 ToMV resistance protein [Solanum lycopersicum]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	AAQ10736.1
+595(2)_CNL	929	455.677	5.19E-142	gi|302143590|emb|CBI22343.3|unnamed protein product, partial [Vitis vinifera]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	CBI22343.3
+595(2)_CNL	929	427.557	1.68E-131	gi|567871445|ref|XP_006428312.1|hypothetical protein CICLE_v10013727mg, partial [Citrus clementina]	GO:0043531	ESR41552.1
+595(2)_CNL	929	424.861	1.41E-130	gi|567881209|ref|XP_006433163.1|hypothetical protein CICLE_v10003685mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ESR46403.1
+595(2)_CNL	929	416.001	6.75E-127	gi|298204970|emb|CBI34277.3|unnamed protein product, partial [Vitis vinifera]	GO:0016020, GO:0016021, GO:0043531, GO:0006952	CBI34277.3
+595(2)_CNL	929	410.223	8.30E-125	gi|566198875|ref|XP_002319513.2|putative disease resistance gene NBS-LRR family protein [Populus trichocarpa]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EEE95436.2
+595(2)_CNL	929	410.609	1.96E-123	gi|566169407|ref|XP_006382675.1|hypothetical protein POPTR_0005s043602g [Populus trichocarpa]	GO:0043531, GO:0006952	ERP60472.1
+595(2)_CNL	929	407.142	1.16E-122	gi|567871449|ref|XP_006428314.1|hypothetical protein CICLE_v10013355mg, partial [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524	ESR41554.1
+595_CNL	985	589.341	0	gi|317106737|dbj|BAJ53233.1|JHL06P13.14 [Jatropha curcas]	GO:0043531, GO:0006952	KDP37106.1
+595_CNL	985	561.222	2.43E-176	gi|976920361|gb|KVI05092.1|hypothetical protein Ccrd_016590 [Cynara cardunculus var. scolymus]	GO:0043531	KVI05092.1
+595_CNL	985	510.76	1.92E-162	gi|302143590|emb|CBI22343.3|unnamed protein product, partial [Vitis vinifera]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	CBI22343.3
+595_CNL	985	527.709	7.20E-162	gi|147865073|emb|CAN83232.1|hypothetical protein VITISV_021876 [Vitis vinifera]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	CAN83232.1
+6_(2)_CNL	989	831.632	0	gi|147841490|emb|CAN77617.1|hypothetical protein VITISV_037152 [Vitis vinifera]	GO:0043531, GO:0006952	CAN77617.1
+6_(2)_CNL	989	810.061	0	gi|596017798|ref|XP_007218891.1|hypothetical protein PRUPE_ppa000343mg [Prunus persica]	GO:0043531, GO:0006952	EMJ20090.1
+6_(2)_CNL	989	808.905	0	gi|643704021|gb|KDP21085.1|hypothetical protein JCGZ_21556 [Jatropha curcas]	GO:0043531, GO:0006952	KDP21085.1
+6_(2)_CNL	989	805.438	0	gi|596056806|ref|XP_007220964.1|hypothetical protein PRUPE_ppa026310mg, partial [Prunus persica]	GO:0043531	EMJ22163.1
+6_(2)_CNL	989	805.053	0	gi|590584019|ref|XP_007015058.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0016020, GO:0016021, GO:0043531, GO:0006952	EOY32677.1
+6_(2)_CNL	989	801.971	0	gi|596017802|ref|XP_007218892.1|hypothetical protein PRUPE_ppa000391mg [Prunus persica]	GO:0043531, GO:0006952	EMJ20091.1
+6_CNL	1198	826.239	0	gi|731435359|ref|XP_010645685.1|PREDICTED: putative disease resistance RPP13-like protein 1 [Vitis vinifera]	GO:0043531, GO:0006952	XP_010645685.1
+6_CNL	1198	824.313	0	gi|731414663|ref|XP_010659232.1|PREDICTED: putative disease resistance RPP13-like protein 1 isoform X2 [Vitis vinifera]	GO:0043531, GO:0006952	XP_010659242.1
+6_CNL	1198	813.913	0	gi|596017802|ref|XP_007218892.1|hypothetical protein PRUPE_ppa000391mg [Prunus persica]	GO:0043531, GO:0006952	EMJ20091.1
+6_CNL	1198	780.785	0	gi|596061977|ref|XP_007221132.1|hypothetical protein PRUPE_ppa019071mg [Prunus persica]	GO:0043531, GO:0006952	EMJ22331.1
+6_CNL	1198	780.015	0	gi|596047585|ref|XP_007220296.1|hypothetical protein PRUPE_ppa000407mg [Prunus persica]	GO:0043531, GO:0006952	EMJ21495.1
+717_CN	642	341.273	9.60E-102	gi|590669164|ref|XP_007037697.1|NB-ARC domain-containing disease resistance protein, putative isoform 1 [Theobroma cacao]	GO:0043531, GO:0006952	EOY22199.1
+717_CN	642	337.806	1.14E-100	gi|590681700|ref|XP_007041151.1|NB-ARC domain-containing disease resistance protein isoform 1 [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOX96983.1
+717_CN	642	319.316	1.30E-93	gi|823121918|ref|XP_012468847.1|PREDICTED: disease resistance protein RPS2-like [Gossypium raimondii]	GO:0043531, GO:0006952	KJB08112.1
+717_CN	642	309.301	5.91E-90	gi|590681727|ref|XP_007041159.1|NB-ARC domain-containing disease resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOX96990.1
+717_CN	642	299.671	5.03E-88	gi|571455851|ref|XP_006580205.1|PREDICTED: disease resistance protein At4g27190-like isoform X2 [Glycine max]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	KRH59105.1
+717_CN	642	298.901	7.95E-88	gi|947094397|gb|KRH42982.1|hypothetical protein GLYMA_08G123300 [Glycine max]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	KRH42983.1
+717_CN	642	302.753	2.11E-87	gi|1044542936|ref|XP_017412204.1|PREDICTED: disease resistance protein At4g27190-like isoform X1 [Vigna angularis]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	BAT73545.1
+828_CNL	921	480.715	3.35E-152	gi|567880107|ref|XP_006432612.1|hypothetical protein CICLE_v10003762mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ESR45852.1
+828_CNL	921	483.797	1.51E-146	gi|147865073|emb|CAN83232.1|hypothetical protein VITISV_021876 [Vitis vinifera]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	CAN83232.1
+865_RPW8	835	1149.81	0	gi|641865666|gb|KDO84351.1|hypothetical protein CISIN_1g003321mg [Citrus sinensis]	GO:0043531, GO:0006952	KDO84352.1
+865_RPW8	835	1147.5	0	gi|567884615|ref|XP_006434866.1|hypothetical protein CICLE_v10000281mg [Citrus clementina]	GO:0043531, GO:0006952	ESR48106.1
+865_RPW8	835	1144.41	0	gi|641865665|gb|KDO84350.1|hypothetical protein CISIN_1g003321mg [Citrus sinensis]	GO:0043531, GO:0006952	KDO84350.1
+938_CNL	918	479.174	9.94E-147	gi|595816130|ref|XP_007204014.1|hypothetical protein PRUPE_ppa019936mg [Prunus persica]	GO:0043531, GO:0006952	EMJ05213.1
+938_CNL	918	433.721	1.51E-142	gi|379067770|gb|AFC90238.1|nucleotide-binding site leucine-rich repeat protein, partial [Rhododendron formosanum]	GO:0043531	AFC90238.1
+938_CNL	918	466.848	3.70E-142	gi|595814483|ref|XP_007203747.1|hypothetical protein PRUPE_ppa016994mg [Prunus persica]	GO:0043531, GO:0006952	EMJ04946.1
+946	568	456.447	3.71E-147	gi|661880385|emb|CDP15916.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP15916.1
+946	568	448.743	1.16E-143	gi|661880359|emb|CDP15890.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP15890.1
+946	568	446.817	4.64E-142	gi|661881651|emb|CDP14811.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP14811.1
+946	568	445.277	3.21E-141	gi|590654140|ref|XP_007033617.1|Cc-nbs-lrr resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY04543.1
+946	568	437.187	4.92E-140	gi|661881566|emb|CDP14726.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP14726.1
+946(2)_XNL	696	486.878	9.97E-159	gi|661881561|emb|CDP14721.1|unnamed protein product, partial [Coffea canephora]	GO:0043531	CDP14721.1
+946(2)_XNL	696	481.871	4.10E-155	gi|661880385|emb|CDP15916.1|unnamed protein product [Coffea canephora]	GO:0043531, GO:0006952	CDP15916.1
+946(2)_XNL	696	473.011	4.81E-150	gi|590654140|ref|XP_007033617.1|Cc-nbs-lrr resistance protein, putative [Theobroma cacao]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	EOY04543.1
+946(2)_XNL	696	471.47	6.85E-149	gi|590654363|ref|XP_007033676.1|Cc-nbs-lrr resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY04602.1
+946_CNL	1056	500.36	5.44E-155	gi|508712859|gb|EOY04756.1|LRR and NB-ARC domains-containing disease resistance protein, putative [Theobroma cacao]	GO:0043531, GO:0006952	EOY04756.1
+946_CNL	1056	491.886	3.25E-152	gi|566201677|ref|XP_006374781.1|hypothetical protein POPTR_0014s00720g [Populus trichocarpa]	GO:0043531, GO:0006952	
+946_CNL	1056	492.271	4.82E-152	gi|566201787|ref|XP_006374816.1|hypothetical protein POPTR_0014s01230g [Populus trichocarpa]	GO:0043531, GO:0006952	
+978_CNL	981	473.011	1.22E-148	gi|567880107|ref|XP_006432612.1|hypothetical protein CICLE_v10003762mg [Citrus clementina]	GO:0000166, GO:0043531, GO:0005524, GO:0006952	ESR45852.1
+1094_XNL	878		0.00E+00	gi|657969494|ref|XP_008376467.1|PREDICTED: disease resistance protein RPM1-like [Malus domestica]	GO:0043531	
+1526_XNL	947		2.56E-174	gi|720097416|ref|XP_010247315.1|PREDICTED: putative disease resistance protein RGA3 [Nelumbo nucifera]	GO:0043531	
+1714_TNL	672				GO:0043531, GO:0007165, GO:0005515	
+1715_XNL	874				GO:0043531	
+1739_CNL	1220				GO:0043531	
+1773	966				GO:0043531, GO:0005515	
+1832(2)_XNL	960				GO:0043531	
+1832_XNL	943		0	gi|657944771|ref|XP_008376413.1|PREDICTED: disease resistance protein RPM1-like [Malus domestica]	GO:0043531	
+20_CNL	858				GO:0043531	
+2184_NL	749		2.11E-121	gi|1035910881|gb|OAY40475.1|hypothetical protein MANES_09G025400 [Manihot esculenta]	GO:0043531	
+2464_TNL	987		0	gi|1025144872|ref|XP_016467018.1|PREDICTED: TMV resistance protein N-like [Nicotiana tabacum]	GO:0043531, GO:0007165, GO:0005515	
+26_XNL	856				GO:0043531	
+3372_TNL	888			gi|698524379|ref|XP_009758997.1|PREDICTED: TMV resistance protein N-like [Nicotiana sylvestris]	GO:0043531, GO:0007165, GO:0005515	
+33_XNL	1340				GO:0043531	
+367_TCN	425				GO:0043531, GO:0007165, GO:0005515	
+62_CNL	933				GO:0043531	
+66_CNL	1201				GO:0043531	
+75_CNL	1047				GO:0043531	
+97_CNL	975				GO:0043531, GO:0005515	
+97_TCN	748				GO:0043531, GO:0007165, GO:0005515	
