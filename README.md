@@ -11,3 +11,5 @@ See an example in optimal_Plan.md
 ## Reference Genes  
 A set of reference genes for use in real-time qPCR studies of blueberry and related plants of the *Ericaceae* family.
 
+## NBS gene family.
+Genome-scale examination of the NBS-encoding gene family.
