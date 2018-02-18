@@ -122,7 +122,7 @@ ind <- which(meanDat$Sampling.Cost*time.points < budget)
   
   
 #### 11. Plot the experimental plans and identifies those within the available budget
-![](/Optimal Plan/optimal_Plan_files/figure-html/unnamed-chunk-1-1.png)  
+![](Optimal%20Plan/optimal_Plan_files/figure-html/unnamed-chunk-1-1.png)  
  
   
 #### 12. Get the sampling plan (out of those within the available budget) showing the minimum variance (or SD)
@@ -192,7 +192,7 @@ meanDat[target[ind2],]
 ```
   
 Plot the optimal sampling plan accordingt to critera 14.1
-![](/Optimal Plan/optimal_Plan_files/figure-html/unnamed-chunk-4-1.png)  
+![](Optimal%20Plan/optimal_Plan_files/figure-html/unnamed-chunk-4-1.png)  
             
 ```r
 #14.2 Critera 2: plan that is least expensive
@@ -208,12 +208,7 @@ meanDat[target[1],]
 ```
   
 Plot the optimal sampling plan according to criteria 14.2
-![](/Optimal%20Plan/optimal_Plan_files/figure-html/unnamed-chunk-6-1.png)  
-con %20 
-
-![](/Optimal Plan/optimal_Plan_files/figure-html/unnamed-chunk-6-1.png)  
-sin %20 
-
+![](Optimal%20Plan/optimal_Plan_files/figure-html/unnamed-chunk-6-1.png)  
 
 ##### SessionInfo
 
