@@ -6,7 +6,7 @@ Collection of packages, scripts and data related to our research on Blueberry. T
 Identify the optimal qPCR sampling plan within the limits of a given budget by using replicates when they are expected to have the greatest benefit. See an example [here](optimal_Plan.md). 
 
 ## Reference Genes  
-A set of reference genes for use in real-time qPCR studies of [blueberry] and related plants of the *Ericaceae* family.
+A set of reference genes for use in real-time qPCR studies of [blueberry](references.md) and related plants of the *Ericaceae* family.
 
 ## Weather
 Summary of average daily temperatures ([1995-2016]()) in Beltsville, MD. 
