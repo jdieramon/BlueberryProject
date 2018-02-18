@@ -192,7 +192,7 @@ meanDat[target[ind2],]
   
 Plot the optimal sampling plan accordingt to critera 14.1
 <img src="optimal_Plan_files/figure-html/unnamed-chunk-4-1.png" title="" alt="" style="display: block; margin: auto;" />
-![Caption for the picture.](/optimal_Plan_files/figure-html/unnamed-chunk-4-1.png)  
+![Caption for the picture.](/Optimal%20Plan/optimal_Plan_files/figure-html/unnamed-chunk-4-1.png)  
 
 ```r
 #14.2 Critera 2: plan that is least expensive
