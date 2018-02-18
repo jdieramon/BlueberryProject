@@ -9,7 +9,7 @@ Identify the optimal qPCR sampling plan within the limits of a given budget by u
 A set of reference genes for use in real-time qPCR studies of [blueberry](references.md) and related plants of the *Ericaceae* family.
 
 ## Weather
-Summary of average daily temperatures ([1995-2016]()) in Beltsville, MD. 
+Summary of average daily temperatures ([1995-2016](weather.md)) in Beltsville, MD. 
 
 ## NBS gene family.
 Genome-scale examination of the [NBS-encoding]() gene family.
