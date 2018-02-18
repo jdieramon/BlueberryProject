@@ -2,9 +2,9 @@ Cost-effective Experimental Design
 
 #### Overview
 
-This is an R Markdown document. For further clarification of this code, read [Design and Sampling Plan Optimization for RT-qPCR Experiments in Plants: A Case Study in Blueberry](http://journal.frontiersin.org/article/10.3389/fpls.2016.00271/full#) by Die, Roman, Flores and Rowland. Front. Plant Sci. (2016) 7:271. doi: 10.3389/fpls.2016.00271 
+This is an R Markdown document. For further clarification of this code, read [Design and Sampling Plan Optimization for RT-qPCR Experiments in Plants: A Case Study in Blueberry](http://journal.frontiersin.org/article/10.3389/fpls.2016.00271/full#) by Die, Roman, Flores and Rowland. Front. Plant Sci. (2016) 7:271.  
 
-####0. Dependencies
+#### 0. Dependencies
 
 This document has the following dependencies:
 
@@ -13,7 +13,7 @@ library(dplyr)
 ```
   
   
-####1. Set the number of potential replicates (1 to X) for each of the sample processing steps
+#### 1. Set the number of potential replicates (1 to X) for each of the sample processing steps
 
 ```r
 nsubject = 5
@@ -23,7 +23,7 @@ nrt=4
 ```
   
   
-####2. Build a general matrix of potential sampling plans (as dataframe)
+#### 2. Build a general matrix of potential sampling plans (as dataframe)
 
 ```r
 c.subject = rep(c(1:nsubject),each=nrna*nrt*nqpcr)
@@ -45,7 +45,7 @@ dat <- tbl_df(data.frame(subject =c.subject,RNA =c.rna,RT=c.rt,qPCR =c.qpcr))
 ```
   
   
-####3. Define a function to estimate the variance (or SD) of the mean Cq or "Total expected variation""
+#### 3. Define a function to estimate the variance (or SD) of the mean Cq or "Total expected variation""
 
 ```r
 total.var = function(nsubject,nrna,nrt,nqpcr) {
@@ -55,7 +55,7 @@ total.var = function(nsubject,nrna,nrt,nqpcr) {
 ```
   
   
-####4. Enter the variation (or SD) observed from the pilot experiment
+#### 4. Enter the variation (or SD) observed from the pilot experiment
 
 ```r
 # Example 4A. Mean GOIs, Tissue = leaves
@@ -71,21 +71,21 @@ qpcr = (0.30+0.27+0.35)/n.genes
 ```
   
   
-####5. Estimate the total expected variation (mean Cq) per sampling plan and add those values to the data frame
+#### 5. Estimate the total expected variation (mean Cq) per sampling plan and add those values to the data frame
 
 ```r
 dat <- mutate(dat, Total.Mean = round(total.var(subject,RNA, RT, qPCR),2))
 ```
   
   
-####6. Create a new variable (total number of replicates) and add those values to the data frame
+#### 6. Create a new variable (total number of replicates) and add those values to the data frame
 
 ```r
 dat <- mutate(dat,Total.Rep=subject*RNA*RT*qPCR)
 ```
   
   
-####7. Enter the unitary cost throughout sample processing
+#### 7. Enter the unitary cost throughout sample processing
 
 ```r
 cost.sub = 50
@@ -95,7 +95,7 @@ cost.qPCR = 1
 ```
   
   
-####8. Estimate cost for each sampling plan and add those values to the data frame
+#### 8. Estimate cost for each sampling plan and add those values to the data frame
 
 ```r
 meanDat <- mutate(dat, Sampling.Cost = subject*cost.sub + (RNA*subject*cost.rna) + 
@@ -105,7 +105,7 @@ meanDat <- mutate(dat, Sampling.Cost = subject*cost.sub + (RNA*subject*cost.rna)
 ```
   
   
-####9. Enter the requirements for the actual experiment
+#### 9. Enter the requirements for the actual experiment
 
 ```r
 time.points = 3
@@ -113,19 +113,19 @@ budget = 1000
 ```
   
   
-####10. Create an index to identify sampling plans limited by the available budget
+#### 10. Create an index to identify sampling plans limited by the available budget
 
 ```r
 ind <- which(meanDat$Sampling.Cost*time.points < budget)
 ```
   
   
-####11. Plot the experimental plans and identifies those within the available budget
+#### 11. Plot the experimental plans and identifies those within the available budget
 <img src="optimal_Plan_files/figure-html/unnamed-chunk-1-1.png" title="" alt="" style="display: block; margin: auto;" />
   
   
-####12. Get the sampling plan (out of those within the available budget) showing the minimum variance (or SD)
-#####In other words: out of the different sampling plans, what is the minimum variance that we can find?
+#### 12. Get the sampling plan (out of those within the available budget) showing the minimum variance (or SD)
+##### In other words: out of the different sampling plans, what is the minimum variance that we can find?
 
 ```r
 min.var <- min(meanDat[ind,3])
@@ -137,7 +137,7 @@ min.var
 ```
   
   
-####13. Get and plot the sampling plan(s) showing the minimum variance (or SD)
+#### 13. Get and plot the sampling plan(s) showing the minimum variance (or SD)
 
 ```r
 #Get the sampling plan(s) 
@@ -173,7 +173,7 @@ points(meanDat$Total.Rep[target],
 <img src="optimal_Plan_files/figure-html/unnamed-chunk-2-1.png" title="" alt="" style="display: block; margin: auto;" />
   
   
-####14. Get and plot the OPTIMAL PLAN (out of those showing the minimum variance)
+#### 14. Get and plot the OPTIMAL PLAN (out of those showing the minimum variance)
 
 ```r
 #14.1 Criteria 1: plan that requires less final replicates
@@ -208,7 +208,7 @@ meanDat[target[1],]
 ```
   
 Plot the optimal sampling plan according to criteria 14.2
-<img src="optimal_Plan_files/figure-html/unnamed-chunk-6-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="/optimal_Plan_files/figure-html/unnamed-chunk-6-1.png" title="" alt="" style="display: block; margin: auto;" />
   
 ##### SessionInfo
 
