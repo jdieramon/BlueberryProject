@@ -1,4 +1,3 @@
-[Home page](https://jdieramon.github.io)  
 
 Here, we provide an important resource for the identification of functional
 R-genes. In this study, we searched for and found a total of **106 NBS-encoding genes** in the current 
