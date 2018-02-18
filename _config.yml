@@ -1,8 +1,8 @@
 title: Blueberry in config
-author: jdieramon
+author: Jose V. Die
 email: jose.die@uco.es
 description: > # this means to ignore newlines until "baseurl:"
-  Computational stuff for my [GitHub](https://jdieramon.github.io) page.
+  Computational stuff for my [GitHub]<a href="/blog">blog</a>
 
 # social links
 twitter_username: jdieramon
