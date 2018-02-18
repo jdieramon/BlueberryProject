@@ -1,6 +1,8 @@
-**Summary Avg. Daily Temperatures**
+**Summary Avg. Daily Temperatures**  
+
 Jose V. Die  
 March 1, 2016  
+
 
 **Average Daily Temperatures in Beltsville (MD). Data set 1.**  
 Temperatures are shown in ºC.  
