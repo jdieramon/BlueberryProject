@@ -1,4 +1,4 @@
-Collection of packages, scripts and data related to our research on Blueberry. The blueberry research project is led by Dr. Lisa J. Rowland at USDA-ARS. [click](http://www.ars.usda.gov/pandp/people/people.htm?personid=4849){:target="_blank"}
+Collection of packages, scripts and data related to our research on Blueberry. The blueberry research project is led by **Dr. Lisa J. Rowland** at [USDA-ARS](http://www.ars.usda.gov/pandp/people/people.htm?personid=4849){:target="_blank"}.
 
 <br>
 
@@ -12,4 +12,4 @@ A set of reference genes for use in real-time qPCR studies of [blueberry](refere
 Summary of average daily temperatures ([1995-2016](weather.md)) in Beltsville, MD. 
 
 ## NBS gene family.
-Genome-scale examination of the [NBS-encoding]() gene family.
+Genome-scale examination of the [NBS-encoding](nbs.md) gene family.
