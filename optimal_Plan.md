@@ -1,6 +1,5 @@
-Cost-effective Experimental Design
+**Cost-effective Experimental Design**
 
-![](Optimal%20Plan/optimal_Plan_files/figure-html/unnamed-chunk-1-1.png)
 
 #### Overview
 
@@ -172,8 +171,8 @@ points(meanDat$Total.Rep[target],
        col="cadetblue2", cex=1, bg="cadetblue2", pch=21) 
 ```
 
-![](/Optimal Plan/optimal_Plan_files/figure-html/unnamed-chunk-2-1.png)  
-  
+![](Optimal%20Plan/optimal_Plan_files/figure-html/unnamed-chunk-2-1.png)  
+ 
   
 #### 14. Get and plot the OPTIMAL PLAN (out of those showing the minimum variance)
 
