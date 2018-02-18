@@ -207,8 +207,9 @@ meanDat[target[1],]
 ```
   
 Plot the optimal sampling plan according to criteria 14.2
-![](/Optimal Plan/optimal_Plan_files/figure-html/unnamed-chunk-6-1.png)  
-  
+![](/Optimal%20Plan/optimal_Plan_files/figure-html/unnamed-chunk-6-1.png)  
+
+con %20 
 ##### SessionInfo
 
 \scriptsize
