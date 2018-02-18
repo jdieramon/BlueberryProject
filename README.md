@@ -1,4 +1,7 @@
-Collection of packages, scripts and data related to our research on Blueberry. The blueberry research project is led by Dr. Lisa J. Rowland at USDA-ARS. (http://www.ars.usda.gov/pandp/people/people.htm?personid=4849)
+Collection of packages, scripts and data related to our research on Blueberry. The blueberry research project is led by Dr. Lisa J. Rowland at USDA-ARS. [click](http://www.ars.usda.gov/pandp/people/people.htm?personid=4849){:target="_blank"}
+
+[link name](url_link){:target="_blank"}
+
 <br>
 
 ## Optimal Plan  
