@@ -1,5 +1,7 @@
 Cost-effective Experimental Design
 
+![](Optimal%20Plan/optimal_Plan_files/figure-html/unnamed-chunk-1-1.png)
+
 #### Overview
 
 This is an R Markdown document. For further clarification of this code, read [Design and Sampling Plan Optimization for RT-qPCR Experiments in Plants: A Case Study in Blueberry](http://journal.frontiersin.org/article/10.3389/fpls.2016.00271/full#) by Die, Roman, Flores and Rowland. Front. Plant Sci. (2016) 7:271.  
