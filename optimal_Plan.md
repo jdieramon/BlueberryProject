@@ -121,8 +121,8 @@ ind <- which(meanDat$Sampling.Cost*time.points < budget)
   
   
 #### 11. Plot the experimental plans and identifies those within the available budget
-<img src="optimal_Plan_files/figure-html/unnamed-chunk-1-1.png" title="" alt="" style="display: block; margin: auto;" />
-  
+![](/Optimal Plan/optimal_Plan_files/figure-html/unnamed-chunk-1-1.png)  
+ 
   
 #### 12. Get the sampling plan (out of those within the available budget) showing the minimum variance (or SD)
 ##### In other words: out of the different sampling plans, what is the minimum variance that we can find?
@@ -170,7 +170,7 @@ points(meanDat$Total.Rep[target],
        col="cadetblue2", cex=1, bg="cadetblue2", pch=21) 
 ```
 
-<img src="optimal_Plan_files/figure-html/unnamed-chunk-2-1.png" title="" alt="" style="display: block; margin: auto;" />
+![](/Optimal Plan/optimal_Plan_files/figure-html/unnamed-chunk-2-1.png)  
   
   
 #### 14. Get and plot the OPTIMAL PLAN (out of those showing the minimum variance)
@@ -191,8 +191,7 @@ meanDat[target[ind2],]
 ```
   
 Plot the optimal sampling plan accordingt to critera 14.1
-<img src="optimal_Plan_files/figure-html/unnamed-chunk-4-1.png" title="" alt="" style="display: block; margin: auto;" />
-![Caption2 for the picture.](/Optimal Plan/optimal_Plan_files/figure-html/unnamed-chunk-4-1.png)  
+![](/Optimal Plan/optimal_Plan_files/figure-html/unnamed-chunk-4-1.png)  
             
 ```r
 #14.2 Critera 2: plan that is least expensive
@@ -208,7 +207,7 @@ meanDat[target[1],]
 ```
   
 Plot the optimal sampling plan according to criteria 14.2
-<img src="/optimal_Plan_files/figure-html/unnamed-chunk-6-1.png" title="" alt="" style="display: block; margin: auto;" />
+![](/Optimal Plan/optimal_Plan_files/figure-html/unnamed-chunk-6-1.png)  
   
 ##### SessionInfo
 
