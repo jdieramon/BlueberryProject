@@ -3,7 +3,7 @@ Collection of packages, scripts and data related to our research on Blueberry. T
 <br>
 
 ## Optimal Plan  
-Identify the optimal qPCR sampling plan within the limits of a given budget by using replicates when they are expected to have the greatest benefit. See an example [here](). 
+Identify the optimal qPCR sampling plan within the limits of a given budget by using replicates when they are expected to have the greatest benefit. See an example [here](optimal_Plan.md). 
 
 ## Reference Genes  
 A set of reference genes for use in real-time qPCR studies of [blueberry] and related plants of the *Ericaceae* family.
