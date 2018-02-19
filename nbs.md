@@ -12,7 +12,7 @@ clusters based on their structural variation.
  
  <br>
  
- Please, if you use any of those resources condiser to cite : 
+ If you use any of those resources for your research, please cite: 
  
  Die JV, Roman B, Qi X, Rowland LJ (2018) **Genome-scale examination of NBS-encoding genes in blueberry**. Scientific Reports, doi: 10.1038/s41598-018-21738-7
 
