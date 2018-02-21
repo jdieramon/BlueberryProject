@@ -12,4 +12,4 @@ See an example in optimal_Plan.md
 A set of reference genes for use in real-time qPCR studies of blueberry and related plants of the *Ericaceae* family.
 
 ## NBS gene family.
-Genome-scale examination of the NBS-encoding gene family.
+Genome-scale examination of the [NBS-encoding](https://jdieramon.github.io/BlueberryProject/nbs.html) gene family.
